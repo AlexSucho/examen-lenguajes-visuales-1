@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\viewmodels\\categoriaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\viewmodels\\categoriaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\data\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\librosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\librosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\categoriasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\categoriasview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\migrations\\20250715203957_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\migrations\\20250715203957_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\viewmodels\\librosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\viewmodels\\librosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\viewmodels\\libroformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\viewmodels\\libroformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\librosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\librosview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\categoriasview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\categoriasview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\viewmodels\\categoriaformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\viewmodels\\categoriaformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\categoriaformview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\categoriaformview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\categoriaformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\categoriaformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\libroformview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\libroformview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\libroformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\libroformview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\registroview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\registroview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\viewmodels\\registroviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\registroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\registroview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\loginview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|c:\\users\\pc17\\desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\migrations\\20250714021421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28FD802A-D939-4396-83D3-AE07474D9448}|examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1.csproj|solutionrelative:examen-lenguajes-visuales-1\\migrations\\20250714021421_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\CategoriaViewModel.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\ViewModels\\CategoriaViewModel.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\CategoriaViewModel.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\ViewModels\\CategoriaViewModel.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:17:39.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Data\\BibliotecaContext.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Data\\BibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Data\\BibliotecaContext.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Data\\BibliotecaContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:04:07.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibrosView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibrosView.xaml.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\LibrosView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibrosView.xaml.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\LibrosView.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:29:55.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriasView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T03:17:05.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\LibrosViewModel.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\ViewModels\\LibrosViewModel.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\LibrosViewModel.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\ViewModels\\LibrosViewModel.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:44:35.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250715203957_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Migrations\\20250715203957_Inicial.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Migrations\\20250715203957_Inicial.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Migrations\\20250715203957_Inicial.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Migrations\\20250715203957_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T20:39:57.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibroFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\LibroFormViewModel.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\ViewModels\\LibroFormViewModel.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\LibroFormViewModel.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\ViewModels\\LibroFormViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:12:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibrosView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibrosView.xaml",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\LibrosView.xaml",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibrosView.xaml",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\LibrosView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T02:27:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriasView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\CategoriasView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:29:53.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\CategoriaFormViewModel.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\ViewModels\\CategoriaFormViewModel.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\CategoriaFormViewModel.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\ViewModels\\CategoriaFormViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:19:01.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaFormView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:18:32.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaFormView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\CategoriaFormView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T03:18:12.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistroView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\RegistroView.xaml.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\RegistroView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\RegistroView.xaml.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\RegistroView.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:06:29.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibroFormView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T03:10:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibroFormView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\LibroFormView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:11:11.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistroView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\RegistroView.xaml",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\RegistroView.xaml",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\RegistroView.xaml",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\RegistroView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T03:06:12.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistroViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\RegistroViewModel.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\ViewModels\\RegistroViewModel.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\RegistroViewModel.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\ViewModels\\RegistroViewModel.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:06:55.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:22:15.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Views\\LoginView.xaml",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T03:04:50.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:18:15.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwFQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:17:35.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\App.xaml",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\App.xaml",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\App.xaml",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-14T02:56:31.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:17:05.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Models\\Libro.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:03:34.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250714021421_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Migrations\\20250714021421_InitialCreate.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Migrations\\20250714021421_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Migrations\\20250714021421_InitialCreate.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Migrations\\20250714021421_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:14:22.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Models\\Categoria.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:03:16.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "examen-lenguajes-visuales-1\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC17\\Desktop\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\examen-lenguajes-visuales-1\\Models\\Usuario.cs",
+              "RelativeToolTip": "examen-lenguajes-visuales-1\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T02:02:48.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
